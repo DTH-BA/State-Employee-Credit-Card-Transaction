@@ -10,7 +10,7 @@ Analysis of **742k+ state employee credit card transactions (2022–2025)** with
 
 ## ⚙️ Workflow
 1. **Data Overview** – Structure & quality check
-   **SOW & SMART Questions** – Define objectives  
+   and **SOW & SMART Questions** – Define objectives  
 2. **Cleaning** – Handle duplicates, negatives, formatting  
 3. **EDA** – Overview Dashboard
 4. **Modeling** – Outlier detection (Isolation Forest, IQR, Z-score, LOF)  
