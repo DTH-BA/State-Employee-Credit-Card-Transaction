@@ -1,6 +1,6 @@
-# 📊 State Employee Credit Card Transactions Analysis
+# State Employee Credit Card Transactions Analysis
 
-## 📌 Overview
+##Overview
 Analysis of **742k+ state employee credit card transactions (2022–2025)** with goals to:  
 1. Detect anomalous / potentially fraudulent transactions  
 2. Identify high-risk merchants and departments  
@@ -8,7 +8,7 @@ Analysis of **742k+ state employee credit card transactions (2022–2025)** with
 
 ---
 
-## ⚙️ Workflow
+## Workflow
 1. **Data Overview** – Structure & quality check
    and **SOW & SMART Questions** – Define objectives  
 2. **Cleaning** – Handle duplicates, negatives, formatting  
@@ -18,7 +18,7 @@ Analysis of **742k+ state employee credit card transactions (2022–2025)** with
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 - **Python** – pandas, seaborn, scikit-learn  
 - **Tableau** – Interactive dashboards  
 - **Excel** – Data checks  
@@ -26,7 +26,7 @@ Analysis of **742k+ state employee credit card transactions (2022–2025)** with
 
 ---
 
-## 📌 Key Insights (According Dasboard)
+## Key Insights (According Dasboard)
 - Total spend: **$342.4M** from **742k transactions**, with **2.07% refunds**  
 - Spending dominated by **small transactions (~409k)**, but **3,773 high-value outliers** detected  
 - **Dept of Corrections** leads with >$106M, nearly double the next department  
@@ -34,7 +34,7 @@ Analysis of **742k+ state employee credit card transactions (2022–2025)** with
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 - No unique Transaction ID or timestamp granularity  
 - No cardholder-level data  
 
